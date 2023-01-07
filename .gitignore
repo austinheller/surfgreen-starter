@@ -103,8 +103,9 @@ dist
 # TernJS port file
 .tern-port
 
-# Surfgreen files
-build
-
 # macOS files
 .DS_Store
+
+# Surfgreen files
+build
+.nova
